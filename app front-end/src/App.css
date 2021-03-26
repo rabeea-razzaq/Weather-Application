@@ -1,0 +1,24 @@
+html,body{
+  height: 100%;
+  overflow: auto;
+}
+body{
+  background-position: center;
+  background-size: cover;
+  background-image: url('./images/pexels-rodrigo-souza-2531709.jpg');
+  background-repeat:no-repeat;
+}
+.main-body{
+  width: 60%;
+}
+.result-display{
+  width: 70%;
+}
+.table-content{
+  background-color: rgb(252, 247, 247);
+  border: 5px solid white;
+  box-shadow:  0px 10px 10px 0px rgb(173, 173, 173);
+}
+.temperature{
+  font-size: 100px;
+}
